@@ -34,7 +34,7 @@ We used a Jupyter Notebppk to explore, clean, and reformat our data before we co
 * Ratings vs bean origin GDPs
 
 **Conclusions**
-[Link to Presentation on Prezi]()
+[Link to Presentation on Prezi](https://prezi.com/view/1OGXVRNajgLmTZ4h42fe/)
 
 ---
 More info
