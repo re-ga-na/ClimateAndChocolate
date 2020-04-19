@@ -6,7 +6,7 @@ We found the dataset on Kaggle called, “[Chocolate Bar Ratings](https://www.ka
 
 The analysis process was broken into two broad phases: Exploration & Cleanup and Analysis.
 
-We used a Jupyter Notebppk to explore, clean, and reformat our data before we could begin to answer the research questions.
+We used a Jupyter Notebook to explore, clean, and reformat our data before we could begin to answer the research questions.
 
 **Cleanup & Exploration**
 * Convert Objects
