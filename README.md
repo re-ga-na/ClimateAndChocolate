@@ -14,7 +14,7 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 * Remove null values
 * Drop NA
 * Replace row content to get unique values
-* ecc
+* and more
 
 **Analysis**
 * Top Rating Beans
