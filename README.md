@@ -22,6 +22,7 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 * Create new df with only relevant columns and beans
 * Top Country by Rating
 * Top Beans by rating
+* and more
 
 **Plots**
 * Average rating per year all beans
