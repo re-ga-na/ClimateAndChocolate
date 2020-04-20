@@ -34,8 +34,13 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 * Counts of ratings vs bean origin GDPs
 * Ratings vs bean origin GDPs
 
-**Conclusions**
-[Link to Presentation on Prezi](https://prezi.com/view/1OGXVRNajgLmTZ4h42fe/)
+**General Conclusions**
+
+* The best rated chocolate comes from the Criollo bean.
+* Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
+* In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
+
+[Link to Prezi Presentation](https://prezi.com/view/1OGXVRNajgLmTZ4h42fe/)
 
 **Link to Deployed project:**
 [Climate And Chocolate](https://iris28kurti.github.io/climateandchocolate/index.html)
