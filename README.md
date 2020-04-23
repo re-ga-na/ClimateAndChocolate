@@ -40,6 +40,17 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 * Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
 * In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
 
+**Difficulties**
+
+* We have chocolate dates from 2006 to 2017, but our climate data only goes up to 2013. Given that the past several years have been the hottest on record, our predictions for the future of cacao's viability in its growing climates would be enriched with more recent information.
+* Missing data and small data sets served as a barrier for hypothesis testing. 
+
+**Additional Inquiry**
+
+* Humidity is perhaps even more important than temperature for cacao production -- look at global humidity trends in producing countries
+* Does chocolate quality correlate with income of cacao farmers? Do companies that make better chocolate pay their farmers better?
+* Is it possible to get more granular information about specific company's production processes? Perhaps production methods have more influence on quality than cacao source.
+
 [Link to Prezi Presentation](https://prezi.com/view/1OGXVRNajgLmTZ4h42fe/)
 
 **Link to Deployed project:**
