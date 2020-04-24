@@ -29,18 +29,17 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 
 * The best rated chocolate comes from the Criollo bean.
 
-<img align="left" width="100" height="100" src="Images/Average_rating_per_type_of_bean.png">
+<img align="left" width="200" height="200" src="Images/Average_rating_per_type_of_bean.png">
 
-![Images/Average_rating_per_type_of_bean.png](Images/Average_rating_per_type_of_bean.png)
 * Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
 
-![Images/counts_of_rating_vs_GDP_of_producers_company_location.png](Images/counts_of_rating_vs_GDP_of_producers_company_location.png)
+<img width="200" height="200" src="Images/counts_of_rating_vs_GDP_of_producers_company_location.png"> <img width="200" height="200" src="Images/ratings_vs_GDP_of_producers_company_location.png">
 
-![Images/ratings_vs_GDP_of_producers_company_location.png](Images/ratings_vs_GDP_of_producers_company_location.png)
 
 * In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
 
-![Images/Yearly_Temperature.png](Images/Yearly_Temperature.png)
+<img align="left" width="200" height="200" src="Images/Yearly_Temperature.png">
+
 
 **Difficulties**
 
