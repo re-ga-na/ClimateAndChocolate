@@ -37,7 +37,7 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 
 * In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
 
-<img width="400" height="400" src="Images/Yearly_Temperature.png">
+<img width="400" height="600" src="Images/Yearly_Temperature.png">
 
 **Difficulties**
 
