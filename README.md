@@ -24,21 +24,16 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 * Top Beans by rating
 * and more
 
-**Plots**
-* Average rating per year all beans
-* Average rating per type of bean
-* Boxplot Rating for Bean origin countries
-* Average rating of the Top 5 countries by higher consistent rating by year
-* Goods Flow from Company location, mean rating by years
-* Boxplot, Rating for Company Location countries
-* Counts of ratings vs bean origin GDPs
-* Ratings vs bean origin GDPs
 
 **General Conclusions**
 
 * The best rated chocolate comes from the Criollo bean.
+![Images/Average_rating_per_type_of_bean.png](Images/Average_rating_per_type_of_bean.png)
 * Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
+![Images/counts_of_rating_vs_GDP_of_producers_company_location.png](Images/counts_of_rating_vs_GDP_of_producers_company_location.png)
+![Images/ratings_vs_GDP_of_producers_company_location.png](Images/ratings_vs_GDP_of_producers_company_location.png)
 * In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
+![Images/Yearly_Temperature.png](Images/Yearly_Temperature.png)
 
 **Difficulties**
 
