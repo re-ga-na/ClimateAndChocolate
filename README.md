@@ -29,6 +29,8 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 
 * The best rated chocolate comes from the Criollo bean.
 
+<img align="left" width="100" height="100" src="Images/Average_rating_per_type_of_bean.png">
+
 ![Images/Average_rating_per_type_of_bean.png](Images/Average_rating_per_type_of_bean.png)
 * Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
 
