@@ -27,7 +27,7 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 
 **General Conclusions**
 
-* The best rated chocolate comes from the Criollo bean.
+* The best rated chocolate comes from the Trinitario bean.
 
 <img width="400" height="300" src="Images/Average_rating_per_type_of_bean.png">
 
