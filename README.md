@@ -27,13 +27,13 @@ We used a Jupyter Notebook to explore, clean, and reformat our data before we co
 
 **General Conclusions**
 
-* The best rated chocolate comes from the Criollo bean.
+* The best rated chocolate comes from the Trinitario bean.
 
 <img width="400" height="300" src="Images/Average_rating_per_type_of_bean.png">
 
 * Countries that grow cacao for chocolate production are generally poorer than the countries where chocolate companies are headquartered.
 
-<img width="400" height="300" src="Images/counts_of_rating_vs_GDP_of_producers_company_location.png"><img width="400" height="300" src="Images/ratings_vs_GDP_of_producers_company_location.png">
+<img width="400" height="300" src="Images/average_ratings_vs_GDPs_by_bean_origin_country.png"><img width="400" height="300" src="Images/ratings_vs_GDP_of_producers_company_location.png">
 
 * In some cacao growing countries, recent temperature readings have occurred outside of the ideal temperature range for cacao viability.
 
